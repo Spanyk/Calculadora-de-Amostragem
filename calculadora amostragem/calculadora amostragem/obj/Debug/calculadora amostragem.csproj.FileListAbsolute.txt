@@ -1,0 +1,11 @@
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\bin\Debug\calculadora amostragem.exe.config
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\bin\Debug\calculadora amostragem.exe
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\bin\Debug\calculadora amostragem.pdb
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora amostragem.csproj.AssemblyReference.cache
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora amostragem.csproj.SuggestedBindingRedirects.cache
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora_amostragem.Form1.resources
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora_amostragem.Properties.Resources.resources
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora amostragem.csproj.GenerateResource.cache
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora amostragem.csproj.CoreCompileInputs.cache
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora amostragem.exe
+C:\Users\dedes\OneDrive - Fatec Centro Paula Souza\Desktop\FATEC\3°Semestre\IED-100\calculadora amostragem\calculadora amostragem\obj\Debug\calculadora amostragem.pdb
